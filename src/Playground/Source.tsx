@@ -11,7 +11,7 @@ const Container = styled.pre`
 
   font-size: 0.6rem;
   opacity: 0.65;
-  /* white-space: initial; */
+  white-space: initial;
 
   background-color: var(--subtle-background-color);
   user-select: all;
