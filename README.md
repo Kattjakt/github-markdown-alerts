@@ -1,9 +1,12 @@
 # Github Markdown Alerts
 
+A utility for generating alerts/banners using SVG, making them embeddable in GitHub flavored markdown and all other platforms supporting SVG. Try it out here: [https://kattjakt.github.io/github-markdown-alerts](https://kattjakt.github.io/github-markdown-alerts/)
+
 ## ✨ Features
 
 - Fully responsive (uses inline media queries)
-- Looks great in both light and dark mode
+- Supports both light and dark mode
+- Native style
 
 
 ## 💢 Caveats
@@ -15,6 +18,7 @@
 -----
 
 ## Examples
+Try resizing your browser!
 
 ### Info
 <p align="center">
